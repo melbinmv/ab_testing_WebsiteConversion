@@ -1,7 +1,6 @@
 # A/B Test Analysis — Landing Page Conversion
 
-A end-to-end statistical analysis of a website A/B test, determining whether a new landing page design significantly improved user conversion rates. 
-
+A end-to-end statistical analysis of a website A/B test, determining whether a new landing page design significantly improved user conversion rates.
 ---
 
 ## Business Context
@@ -107,6 +106,8 @@ Next steps:
 
 ## Dashboard
 
+**[View Live Dashboard →](https://datastudio.google.com/reporting/0d2a58ad-e17d-4ef3-8087-51f3e64d79f3)**
+
 Built in Looker Studio. Visuals include:
 
 - KPI scorecards — conversion rate per group, uplift %, p-value
@@ -171,3 +172,4 @@ jupyter notebook ab_test_analysis.ipynb
 | GitHub | Version control and project publishing |
 
 ---
+
