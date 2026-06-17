@@ -108,6 +108,8 @@ Next steps:
 
 **[View Live Dashboard →](https://datastudio.google.com/s/vtel4x8l7Cg)**
 
+![App Screenshot](dashboard.png)
+
 Built in Looker Studio. Visuals include:
 
 - KPI scorecards — conversion rate per group, uplift %, p-value
