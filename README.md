@@ -106,7 +106,7 @@ Next steps:
 
 ## Dashboard
 
-**[View Live Dashboard →](https://datastudio.google.com/reporting/0d2a58ad-e17d-4ef3-8087-51f3e64d79f3)**
+**[View Live Dashboard →](https://datastudio.google.com/s/vtel4x8l7Cg)**
 
 Built in Looker Studio. Visuals include:
 
